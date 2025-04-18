@@ -24,7 +24,7 @@ redirect_from:
       </p>
     </div>
     <div>
-      <img src="/images/cast2025.png" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+      <img src="/images/cast2025.jpg" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
     </div>
   </div>
   
