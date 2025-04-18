@@ -16,6 +16,18 @@ redirect_from:
 
 <div style="display: flex; flex-direction: column; gap: 24px;">
 
+  <!-- 项目1：中国科协活动 -->
+  <div style="display: flex; align-items: center; padding: 16px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        Participate in the activities organized by the CAST.
+      </p>
+    </div>
+    <div>
+      <img src="/images/cast2025.png" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+    </div>
+  </div>
+  
   <!-- 项目1：天津新闻 -->
   <div style="display: flex; align-items: center; padding: 16px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
     <div style="flex: 1;">
