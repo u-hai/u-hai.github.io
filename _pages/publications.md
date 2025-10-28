@@ -95,6 +95,18 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
     <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
+    <p class="paper-title">Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot</p>
+    <p class="authors"> <b>Hai Yu#</b>, Zhichao Yang, Wei He,  <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="journal"> <b>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</b>, 2025 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <div class="media-container">
+    <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-image">
+  </div>
+  <div class="info-container">
     <p class="paper-title">Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable</p>
     <p class="authors"> <b>Hai Yu#</b>, <a href="https://wangy1893.github.io/">Yang Wang</a>, <a href="https://lbbnk.github.io/">Bingbing Liu</a>,  <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>IEEE International Conference on Real-time Computing and Robotics (RCAR)</b>, 2024 </p>
