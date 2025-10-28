@@ -92,7 +92,7 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-image">
+    <img src="IROS2025-pic.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot</p>
