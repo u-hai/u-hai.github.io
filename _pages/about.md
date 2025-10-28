@@ -64,10 +64,11 @@ My research interests include **robotics**, **aerial transportation systems**, *
 ## 🏆 Awards and Honors
 
 - Young Talent Support Project (First Cohort of PhD Program), CAST (2025–2026)  
-- National Scholarship for Doctoral Students (2024)  
+- National Scholarship for Doctoral Students (2024, 2025)  
 - Nankai University Annual Figure Nomination Award (2024)  
-- Outstanding Student of Tianjin (2024)  
-- First-Class Gongneng Scholarship of Nankai University (3x, 2022–2024)  
+- Outstanding Student of Tianjin (2024)
+- Zhou Enlai Scholarship, Nankai University - the university’s highest student honor, 10 awardees/year (2025)
+- First-Class Gongneng Scholarship of Nankai University (2023, 2024, 2025)  
 - 1<sup>st</sup> Prize, AI & Robotics Creative Design Competition (2024)  
 - 1<sup>st</sup> Prize, Tianjin IP Innovation & Entrepreneurship Competition (2024)  
 - 1<sup>st</sup> Prize, National Postdoctoral Forum on Indigenous Computing & AI (2022)
