@@ -24,7 +24,7 @@ redirect_from:
       </p>
     </div>
     <div>
-      <img src="/images/iros2025.jpg" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+      <img src="/images/iros2025.jpg" alt="iros2025" style="width: 300px; margin-left: 20px; border-radius: 8px;">
     </div>
   </div>
   
@@ -36,7 +36,7 @@ redirect_from:
       </p>
     </div>
     <div>
-      <img src="/images/2025CAC.jpg" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+      <img src="/images/2025CAC.jpg" alt="2025cac" style="width: 300px; margin-left: 20px; border-radius: 8px;">
     </div>
   </div>
   
