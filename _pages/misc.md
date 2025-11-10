@@ -16,6 +16,30 @@ redirect_from:
 
 <div style="display: flex; flex-direction: column; gap: 24px;">
 
+  <!-- 项目1：2025IROS -->
+  <div style="display: flex; align-items: center; padding: 16px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        Delivered an oral presentation titled “Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot” at the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems.
+      </p>
+    </div>
+    <div>
+      <img src="/images/iros2025.jpg" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+    </div>
+  </div>
+  
+  <!-- 项目1：2025CAC -->
+  <div style="display: flex; align-items: center; padding: 16px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        Delivered an oral presentation titled “Obstacle-Aware Energy-Based Safety Control for Drone-Slung Loads with Variable-Length Cables” at the 2025 Chinese Automation Congress (CAC, 中国自动化大会).
+      </p>
+    </div>
+    <div>
+      <img src="/images/2025CAC.jpg" alt="Tianjin News" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+    </div>
+  </div>
+  
   <!-- 项目1：中国科协活动 -->
   <div style="display: flex; align-items: center; padding: 16px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
     <div style="flex: 1;">
