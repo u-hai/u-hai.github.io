@@ -77,10 +77,11 @@ author_profile: true
 
 ## 📚 代表性论文
 
-- 《基于视觉伺服的变绳长吊运系统防摆控制》，*IEEE TASE*, 2025  
-- 《多旋翼运输系统桨叶故障容错控制》，*IEEE TIE*, 2024  
-- 《空中运输系统移动平台自主着陆轨迹跟踪控制》，*IEEE TII*, 2024  
-- 《考虑钩挂效应的模糊防摆控制》，*IEEE TFS*, 2025  
-- 《双四旋翼协同吊运控制方法》，*IEEE TII*, 2025  
+- Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable, *IEEE T-ASE*, 2025  
+- Fault-Tolerant Control for Multirotor Aerial Transportation Systems With Blade Damage, *IEEE TIE*, 2024  
+- Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE TII*, 2024  
+- Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect, *IEEE TFS*, 2025  
+- Collaborative Control for Aerial Transportation of Cargo With Dual Quadrotors, *IEEE TII*, 2025
+- An Enhanced-Coupling Control Method for Aerial Transportation Systems With Double-Pendulum Swing Effects, *IEEE T-MECH*, 2024
 
 ➡️ [点击查看完整论文列表 »](/publications)
