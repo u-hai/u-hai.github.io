@@ -9,7 +9,7 @@ author_profile: true
   <img src="/images/FAIR-logo.png" alt="FAIR实验室Logo" width="20%">
 </p> -->
 
-我是南开大学人工智能学院**FAIR实验室**（飞行自主与智能机器人实验室）的博士生，导师是[梁潇副教授](https://ai.nankai.edu.cn/info/1034/4844.htm)（[方勇纯教授](https://ai.nankai.edu.cn/info/1033/2797.htm)与[韩建达教授](https://ai.nankai.edu.cn/info/1033/2796.htm)课题组）。
+我是南开大学人工智能学院**飞行自主与智能机器人实验室**的博士生，导师是[梁潇副教授](https://ai.nankai.edu.cn/info/1034/4844.htm)（[方勇纯教授](https://ai.nankai.edu.cn/info/1033/2797.htm)与[韩建达教授](https://ai.nankai.edu.cn/info/1033/2796.htm)课题组）。
 
 我的研究兴趣包括**机器人学**、**空中运输系统**、**运动控制**与**规划方法**。我也对**柔性机器人**非常感兴趣，尤其是移动和空中柔性操作系统。
 
