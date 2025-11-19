@@ -15,7 +15,7 @@ I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots La
 
 My research interests include **robotics**, **aerial transportation systems**, **motion control**, and **planning**. I am also very interested in **flexible robotics**, particularly mobile and aerial flexible-manipulation platforms.
 
-📄 [Download CV (PDF)](/CV/yuhai-resume.pdf)   🌐 [点击此处访问中文版](/chinese)
+📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
 
 ---
 
