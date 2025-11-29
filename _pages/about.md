@@ -55,7 +55,6 @@ My research interests include **robotics**, **aerial transportation systems**, *
 - Amount: **CNY 300,000**.
 - Designs nonlinear control strategies for a dual underactuated aerial transportation system to achieve precise payload release onto moving vessels while ensuring system safety and robustness.
 
----
 
 ### CAST Youth Talent Support Project Doctoral Special Program
 **Role:** Principal Investigator  
