@@ -98,7 +98,7 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
     <p class="paper-title">Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot</p>
     <p class="authors"> <b>Hai Yu#</b>, Zhichao Yang, Wei He,  <a href="https://ai.nankai.edu.cn/info/1033/2796.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</b>, 2025 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/document/11246841">Paper Page</a>] </p>
   </div>
 </div>
 
