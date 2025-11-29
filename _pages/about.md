@@ -47,15 +47,25 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 ## 🔬 Project Experience
 
-- **Control Methods for Precise Release of Cargo with Dual Underactuated Aerial Systems**  
-  *Principal Investigator, NSFC Youth Student Basic Research Project (for Ph.D. students) (CNY300K)*  
-  *May 2024 – Dec. 2025*  
-  – Designs nonlinear control strategies for a dual underactuated aerial transportation system to achieve precise payload release onto moving vessels while ensuring system safety and robustness.
+### NSFC Youth Student Fundamental Research Project (for Ph.D. students)
+**Role:** Principal Investigator  
+**Period:** May 2024 – Dec 2025  
 
-- **Planning and Control for Aerial Transportation Robots**  
-  *Doctoral Research Topic*  
-  *Sep. 2020 – Jun. 2026*  
-  – According to load swing conditions, cable length adjustability, and the number of UAVs, develop fault-tolerant control, swing-suppression control, hierarchical control, visual servo control, and multi-UAV cooperative control frameworks.
+- Project Title: Research on Control Methods for Precise Release of Cargo with a Dual Underactuated Aerial Transportation System onto Mobile Vessels.
+- Amount: **CNY 300,000**.
+- Designs nonlinear control strategies for a dual underactuated aerial transportation system to achieve precise payload release onto moving vessels while ensuring system safety and robustness.
+
+---
+
+### CAST Youth Talent Support Project Doctoral Special Program
+**Role:** Principal Investigator  
+**Period:** Jan 2025 – Jun 2026  
+
+- Mentored and supported under the guidance of the Chinese Society of Aeronautics and Astronautics.
+- Amount: **CNY 40,000**.
+- 3,226 scholars selected in the first nationwide cohort in China.
+
+
 
 ---
 
