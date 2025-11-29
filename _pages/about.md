@@ -61,17 +61,17 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 ## 🏆 Awards and Honors
 
-- Young Talent Support Project (PhD Program), CAST (2025–2026)  
-- National Scholarship for Doctoral Students (2024, 2025)  
-- Nankai University Annual Figure Nomination Award (2024)  
-- Tianjin Outstanding Student (2024)
-- Zhou Enlai Scholarship, Nankai University - the university’s highest student honor, 10 awardees/year (2025)
-- Nankai University May Fourth Youth Medal - “Youth Leader” (2024)
-- First-Class Gongneng Scholarship of Nankai University (2023, 2024, 2025)
-- Nankai University Merit Student (2021, 2023, 2024, 2025)
-- 1<sup>st</sup> Prize, AI & Robotics Creative Design Competition (2024)  
-- 1<sup>st</sup> Prize, Tianjin IP Innovation & Entrepreneurship Competition (2024)  
-- 1<sup>st</sup> Prize, National Postdoctoral Forum on Indigenous Computing & AI (2022)
+- **National Scholarship of China:** Top national scholarship awarded by the Ministry of Education of China. (Nov 2018, Nov 2024, Nov 2025)
+- **Tianjin Outstanding Student:** Municipal-level honor for top students in Tianjin. (Nov 2024)
+- **Zhou Enlai Scholarship:** Nankai university's highest student honor, awarded to only 10 students per year. (Jun 2025)
+- **Nankai "Student of the Year" - Nomination:** Nominee for Nankai University's top annual student honor. (Nov 2024)
+- **Nankai University First Prize Graduate Scholarship:** First-class graduate scholarship for outstanding research performance. (Nov 2023, Nov 2024, Nov 2025)
+- **Nankai University May Fourth Youth Medal - "Youth Leader":** University-level award for student leaders with major contributions to campus life. (May 2025)
+- **1<sup>st</sup> Prize**, National Postdoctoral Academic Forum on "Xinchuang" Development: First prize for a research presentation at a national academic forum on innovation in information technology applications. (Dec 2022)
+- **1<sup>st</sup> Prize**, North China Five-Province Collegiate Robotics Competition: First place in a regional collegiate robotics contest among universities from five northern provinces in China. (Nov 2024)
+- **1<sup>st</sup> Prize**, Tianjin Intellectual Property Innovation & Entrepreneurship - Invention & Design Competition: First prize in a municipal-level competition on invention, design, and innovation-driven entrepreneurship. (Dec 2024)
+- **2<sup>nd</sup> Prize**, International Underwater Robot Competition: Second prize in an international competition on underwater robotics. (Jul 2018)
+
 
 ---
 
