@@ -77,6 +77,8 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 ## 📚 Selected Publications
 
+**Aerial Transportation Systems:**
+
 * _Position tracking, payload landing, visual servoing, and trajectory-refinement control for aerial transportation systems with variable-length cable:_
 
     1. [**TII'2024**] <u>**Hai Yu**</u>, Xiao Liang, Jianda Han, Yongchun Fang, Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE Transactions on Industrial Informatics*, 2024, 20(1): 23–37. [url](https://ieeexplore.ieee.org/abstract/document/10068260)
