@@ -11,7 +11,7 @@ redirect_from:
   <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" width="25%">
 </p> -->
 
-I'm currently an **Assistant Researcher at the Shenzhen Research Institute of Nankai University**. I received my Ph.D. degree in **Control Science and Engineering** from the College of Artificial Intelligence, Nankai University, in June 2026, where I conducted research at the **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory) under the supervision of [Assoc. Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1034/4844.htm), [Prof. Yongchun Fang](https://ai.nankai.edu.cn/info/1033/2797.htm), and [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
+I'm currently an **Assistant Researcher at the Shenzhen Research Institute of Nankai University**. I received my Ph.D. degree in **Control Science and Engineering** from the College of Artificial Intelligence, Nankai University, in June 2026, where I conducted research at the **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory) under the supervision of [Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1286/6617.htm), [Prof. Yongchun Fang](https://ai.nankai.edu.cn/info/1033/2797.htm), and [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
 
 My research interests include **robotics**, **aerial transportation systems**, **aerial manipulation**, **motion control**, and **motion planning**. I am particularly interested in intelligent aerial robotic systems that integrate **perception, planning, learning, and control**, as well as **flexible robotic systems**, including mobile and aerial flexible-manipulation platforms.
 
@@ -61,38 +61,6 @@ My research interests include **robotics**, **aerial transportation systems**, *
   </tr>
 </table>
 
-I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, co-supervised by [Assoc. Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1034/4844.htm), [Prof. Yongchun Fang](https://ai.nankai.edu.cn/info/1033/2797.htm), and [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
-
-My research interests include **robotics**, **aerial transportation systems**, **motion control**, and **planning**. I am also very interested in **flexible robotics**, particularly mobile and aerial flexible-manipulation platforms.
-
-📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
-
----
-
-## 🎓 Education
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="vertical-align:top; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
-      <strong>College of Artificial Intelligence, Nankai University</strong><br>
-      Integrated Master’s and Ph.D. Program in Control Science & Engineering<br>
-      Sep. 2020 – Present
-    </td>
-    <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
-      <strong>College of Communication Engineering, Jilin University</strong><br>
-      Bachelor in Automation, Ranked 5th/149<br>
-      Sep. 2016 – Jun. 2020
-    </td>
-    <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="60%">
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🔬 Project Experience
@@ -140,13 +108,15 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 * _Position tracking, payload landing, visual servoing, and trajectory-refinement control for aerial transportation systems with variable-length cable:_
 
-    1. [**TII'2024**] **<u>Hai Yu</u>**, Xiao Liang, Jianda Han, Yongchun Fang, Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE Transactions on Industrial Informatics*, 2024, 20(1): 23–37. [url](https://ieeexplore.ieee.org/abstract/document/10068260)
+    1. [**Automatica'2026**] **<u>Hai Yu</u>**, Zhichao Yang, Wei He, Jianda Han, Yongchun Fang, Xiao Liang, Payload Trajectory Tracking Control for Aerial Transportation Systems With Cable Length Online Optimization, *Automatica*, 2026, 186: 112864. [url](https://www.sciencedirect.com/science/article/pii/S0005109826000488)
+    
+    2. [**TII'2024**] **<u>Hai Yu</u>**, Xiao Liang, Jianda Han, Yongchun Fang, Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE Transactions on Industrial Informatics*, 2024, 20(1): 23–37. [url](https://ieeexplore.ieee.org/abstract/document/10068260)
 
-    2. [**T-ASE'2025**] **<u>Hai Yu</u>**, Zhaopeng Zhang, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang, Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable, *IEEE Transactions on Automation Science and Engineering*, 2025, 22: 5955–5965. [url](https://ieeexplore.ieee.org/abstract/document/10620439)
+    3. [**T-ASE'2025**] **<u>Hai Yu</u>**, Zhaopeng Zhang, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang, Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable, *IEEE Transactions on Automation Science and Engineering*, 2025, 22: 5955–5965. [url](https://ieeexplore.ieee.org/abstract/document/10620439)
 
-    3. [**IROS'2025**] **<u>Hai Yu</u>**, Zhichao Yang, Wei He, Jianda Han, Yongchun Fang, Xiao Liang, Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot, *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 225–231. [url](https://ieeexplore.ieee.org/document/11246841)
+    4. [**IROS'2025**] **<u>Hai Yu</u>**, Zhichao Yang, Wei He, Jianda Han, Yongchun Fang, Xiao Liang, Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot, *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 225–231. [url](https://ieeexplore.ieee.org/document/11246841)
 
-    4. [**TIE'2023**] Xiao Liang, **<u>Hai Yu</u>**, Zhuang Zhang, Huiying Ye, Yongchun Fang, Jianda Han, Unmanned Aerial Transportation System With Flexible Connection Between the Quadrotor and the Payload: Modeling, Controller Design, and Experimental Validation, *IEEE Transactions on Industrial Electronics*, 2023, 70(2): 1870–1882. [url](https://ieeexplore.ieee.org/abstract/document/9749960)
+    5. [**TIE'2023**] Xiao Liang, **<u>Hai Yu</u>**, Zhuang Zhang, Huiying Ye, Yongchun Fang, Jianda Han, Unmanned Aerial Transportation System With Flexible Connection Between the Quadrotor and the Payload: Modeling, Controller Design, and Experimental Validation, *IEEE Transactions on Industrial Electronics*, 2023, 70(2): 1870–1882. [url](https://ieeexplore.ieee.org/abstract/document/9749960)
 
 
 * _Modeling, control, and fault-tolerant scheme for aerial transportation systems with rotor blade damage:_
