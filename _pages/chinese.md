@@ -109,13 +109,11 @@ author_profile: true
 
 * _基于变绳长飞行吊运系统的位置跟踪、载荷着陆、视觉伺服与轨迹重构控制：_
 
-    1. [**TII'2024**] **<u>Hai Yu</u>**, Xiao Liang, Jianda Han, Yongchun Fang, Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE Transactions on Industrial Informatics*, 2024, 20(1): 23–37. [url](https://ieeexplore.ieee.org/abstract/document/10068260)
-
-    2. [**T-ASE'2025**] **<u>Hai Yu</u>**, Zhaopeng Zhang, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang, Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable, *IEEE Transactions on Automation Science and Engineering*, 2025, 22: 5955–5965. [url](https://ieeexplore.ieee.org/abstract/document/10620439)
-
-    3. [**IROS'2025**] **<u>Hai Yu</u>**, Zhichao Yang, Wei He, Jianda Han, Yongchun Fang, Xiao Liang, Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot, *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 225–231. [url](https://ieeexplore.ieee.org/document/11246841)
-
-    4. [**TIE'2023**] Xiao Liang, **<u>Hai Yu</u>**, Zhuang Zhang, Huiying Ye, Yongchun Fang, Jianda Han, Unmanned Aerial Transportation System With Flexible Connection Between the Quadrotor and the Payload: Modeling, Controller Design, and Experimental Validation, *IEEE Transactions on Industrial Electronics*, 2023, 70(2): 1870–1882. [url](https://ieeexplore.ieee.org/abstract/document/9749960)
+    1. [**Automatica'2026**] **<u>Hai Yu</u>**, Zhichao Yang, Wei He, Jianda Han, Yongchun Fang, Xiao Liang, Payload Trajectory Tracking Control for Aerial Transportation Systems With Cable Length Online Optimization, *Automatica*, 2026, 186: 112864. [url](https://www.sciencedirect.com/science/article/pii/S0005109826000488)
+    2. [**TII'2024**] **<u>Hai Yu</u>**, Xiao Liang, Jianda Han, Yongchun Fang, Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE Transactions on Industrial Informatics*, 2024, 20(1): 23–37. [url](https://ieeexplore.ieee.org/abstract/document/10068260)
+    3. [**T-ASE'2025**] **<u>Hai Yu</u>**, Zhaopeng Zhang, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang, Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable, *IEEE Transactions on Automation Science and Engineering*, 2025, 22: 5955–5965. [url](https://ieeexplore.ieee.org/abstract/document/10620439)
+    4. [**IROS'2025**] **<u>Hai Yu</u>**, Zhichao Yang, Wei He, Jianda Han, Yongchun Fang, Xiao Liang, Online Anti-Swing Trajectory Refinement for Variable-Length Cable-Suspended Aerial Transportation Robot, *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 225–231. [url](https://ieeexplore.ieee.org/document/11246841)
+    5. [**TIE'2023**] Xiao Liang, **<u>Hai Yu</u>**, Zhuang Zhang, Huiying Ye, Yongchun Fang, Jianda Han, Unmanned Aerial Transportation System With Flexible Connection Between the Quadrotor and the Payload: Modeling, Controller Design, and Experimental Validation, *IEEE Transactions on Industrial Electronics*, 2023, 70(2): 1870–1882. [url](https://ieeexplore.ieee.org/abstract/document/9749960)
 
 
 * _面向桨叶损伤的飞行吊运系统建模、控制与容错设计：_
