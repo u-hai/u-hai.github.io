@@ -11,6 +11,56 @@ redirect_from:
   <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" width="25%">
 </p> -->
 
+I'm currently an **Assistant Researcher at the Shenzhen Research Institute of Nankai University**. I received my Ph.D. degree in **Control Science and Engineering** from the College of Artificial Intelligence, Nankai University, in June 2026, where I conducted research at the **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory) under the supervision of [Assoc. Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1034/4844.htm), [Prof. Yongchun Fang](https://ai.nankai.edu.cn/info/1033/2797.htm), and [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
+
+My research interests include **robotics**, **aerial transportation systems**, **aerial manipulation**, **motion control**, and **motion planning**. I am particularly interested in intelligent aerial robotic systems that integrate **perception, planning, learning, and control**, as well as **flexible robotic systems**, including mobile and aerial flexible-manipulation platforms.
+
+📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
+
+---
+
+## 💼 Employment
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align:top; width: 70%; font-size: 16px; border: none;">
+      <strong>Shenzhen Research Institute of Nankai University</strong><br>
+      Assistant Researcher<br>
+      Jul. 2026 – Present
+    </td>
+    <td style="padding-left: 20px; width: 30%; text-align: center; border: none;">
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align:top; width: 70%; font-size: 16px; border: none;">
+      <strong>College of Artificial Intelligence, Nankai University</strong><br>
+      Ph.D. in Control Science and Engineering<br>
+      Sep. 2020 – Jun. 2026
+    </td>
+    <td style="padding-left: 20px; width: 30%; text-align: center; border: none;">
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px; border: none;">
+      <strong>College of Communication Engineering, Jilin University</strong><br>
+      B.Eng. in Automation, Ranked 5th/149<br>
+      Sep. 2016 – Jun. 2020
+    </td>
+    <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;">
+      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="60%">
+    </td>
+  </tr>
+</table>
+
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, co-supervised by [Assoc. Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1034/4844.htm), [Prof. Yongchun Fang](https://ai.nankai.edu.cn/info/1033/2797.htm), and [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
 
 My research interests include **robotics**, **aerial transportation systems**, **motion control**, and **planning**. I am also very interested in **flexible robotics**, particularly mobile and aerial flexible-manipulation platforms.
