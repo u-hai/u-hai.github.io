@@ -5,17 +5,39 @@ permalink: /chinese/
 author_profile: true
 ---
 
+---
+layout: archive
+title: "中文"
+permalink: /chinese/
+author_profile: true
+---
+
 <!-- <p align="center">
   <img src="/images/FAIR-logo.png" alt="FAIR实验室Logo" width="20%">
 </p> -->
 
-我是南开大学人工智能学院**飞行自主与智能机器人实验室**的博士生，导师是[梁潇副教授](https://ai.nankai.edu.cn/info/1034/4844.htm)（[方勇纯教授](https://ai.nankai.edu.cn/info/1033/2797.htm)与[韩建达教授](https://ai.nankai.edu.cn/info/1033/2796.htm)课题组）。
+我目前担任**南开大学深圳研究院助理研究员**。2026年6月毕业于**南开大学人工智能学院控制科学与工程专业**，获博士学位。博士期间在**飞行自主与智能机器人实验室（FAIR Lab）**开展科研工作，导师为[梁潇副教授](https://ai.nankai.edu.cn/info/1034/4844.htm)，并在[方勇纯教授](https://ai.nankai.edu.cn/info/1033/2797.htm)与[韩建达教授](https://ai.nankai.edu.cn/info/1033/2796.htm)课题组开展相关研究。
 
-我的研究兴趣包括**机器人学**、**空中运输系统**、**运动控制**与**规划方法**。我也对**柔性机器人**非常感兴趣，尤其是移动和空中柔性操作系统。
-
+我的研究兴趣包括**机器人学**、**飞行吊运系统**、**飞行机械臂**、**运动控制**与**运动规划**等方向，重点关注融合**感知、规划、学习与控制**的智能飞行机器人系统。同时，我也对**柔性机器人**感兴趣，尤其关注移动与空中柔性操作系统。
 
 📄 [下载我的简历 (PDF)](/CV/于海简历.pdf)         🌐 [English Version](https://u-hai.github.io/)
 
+---
+
+## 💼 工作经历
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align:top; width: 60%; font-size: 18px; border: none;">
+      <strong>南开大学深圳研究院</strong><br>
+      助理研究员<br>
+      2026年7月 – 至今
+    </td>
+    <td style="padding-left: 20px; width: 40%; text-align: center; border: none;">
+      <img src="/images/nankai-logo.png" alt="南开大学Logo" width="40%">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,8 +47,8 @@ author_profile: true
   <tr>
     <td style="vertical-align:top; width: 60%; font-size: 18px; border: none;">
       <strong>南开大学 人工智能学院</strong><br>
-      控制科学与工程 硕博连读<br>
-      2020年9月 – 至今
+      控制科学与工程 博士（硕博连读）<br>
+      2020年9月 – 2026年6月
     </td>
     <td style="padding-left: 20px; width: 40%; text-align: center; border: none;">
       <img src="/images/nankai-logo.png" alt="南开大学Logo" width="40%">
@@ -43,6 +65,8 @@ author_profile: true
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
