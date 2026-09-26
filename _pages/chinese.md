@@ -5,12 +5,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
----
-layout: archive
-title: "中文"
-permalink: /chinese/
-author_profile: true
----
+
 
 <!-- <p align="center">
   <img src="/images/FAIR-logo.png" alt="FAIR实验室Logo" width="20%">
